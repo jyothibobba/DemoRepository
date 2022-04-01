@@ -7,4 +7,8 @@ public class SearchPage {
 		System.out.println("search page");
 	}
 	
+	public void searchyName(){
+	System.out.println("search by name");
+	}
+	
 }
